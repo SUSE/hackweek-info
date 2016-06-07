@@ -7,10 +7,11 @@ in Nürnberg.
 
 ## Who | When | How
 
-* Anyone at SUSE can participate [^1], in team or alone, what works for you
+* Anyone at SUSE can participate, but we also encourage the community to join
+  us too - in a team or alone, whatever works for you
 * 24th June - 1st July 2016
-* Depending on your local conditions, but basically you just come to work and
-  start hacking
+* Depending on your local conditions, but basically you just come to work,
+  look around, and start hacking
 
 ## HackWeek Theme
 
@@ -36,6 +37,10 @@ You have a great idea what could be done, but you just have two hands? You have
 a plenty of great ideas, but you can just work on two of them in parallel? You
 are looking for contributors? Anything else? Just go to the
 [HackWeek Page](https://hackweek.suse.com/14/projects/new) and file it there.
+Obviously, even if you want to work on a project just yourself, it's usually
+a good idea to file it there - maybe someone could point you to more
+information they know, maybe their comment could bring even a better idea.
+Who knows?
 
 ## Communication
 
@@ -43,14 +48,15 @@ If you have anything to share with others, share it. Talk to people :)
 
 For a specific project, it's usually good idea to use a specific communication
 channel, but a good starting point could be IRC at `irc.freenode.net`,
-channel `#suse`.
+channel `#hackweek` (or `#suse` as a fallback).
 
 HackWeek organizers also listen to you at mailing-list `hackweek\Q/suse.de`.
 
 ## Sharing
 
 We encourage you to share details of your project. Blog about it, tweet about
-it, chat about it.
+it, chat about it. Even a small talk in the kitchen can help you find some
+hardware or contributors.
 
 ## Open Jobs | Help Needed!
 
@@ -73,4 +79,7 @@ Get inspired by the HackWeek Theme or go directly to
 [HackWeek Pages](https://hackweek.suse.com/14/projects) and find a project that
 you like.
 
-[^1] Except for those who can't ;)
+## To Do
+
+* Some pieces of this information to HackWeek Wiki
+* Move the rest to a new landing page for HackWeek 14
