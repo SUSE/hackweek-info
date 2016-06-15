@@ -62,7 +62,8 @@ hardware or contributors.
 
 We are looking for volunteers
 
-* **Thunder Organizer:** Someone who would organize and encourage people for
+* **Thunder Organizer:** Also known as Thor in Nordic Mythology.
+  Someone who would organize and encourage people for
   giving [lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) at
   their location
 * **Journalist:** Someone who would write daily blogs about HackWeek in general,
@@ -71,13 +72,25 @@ We are looking for volunteers
 ## FAQ
 
 #### So, what is this HackWeek thing?
-Basically anything. You can work on any great idea, new software project, new
-design of our current projects, combination of our current projects, ...
+You like being an engineer, you like hacking, and your head is brimming with
+lots of great ideas that would make a difference - if you only had a stretch
+of time without product development, bugs, and meetings.
+
+This is what hackweek is about. Giving you one week to do exactly that - work
+on a great idea, start a new software project, contribute to some upstream project,
+build something new out of existing SUSE stuff... anything.
+
+#### Really anything?
+Well, almost.  Teaching yourself how to Hoola-Hoop may be fun, but
+it's a bit outside the scope. SUSE HackWeek should be about hacking,
+and it should be relevant to SUSE in some way.
 
 #### I have no idea what to do.
 Get inspired by the HackWeek Theme or go directly to
 [HackWeek Pages](https://hackweek.suse.com/14/projects) and find a project that
-you like.
+you like. Talk to your team members, or people who share your interest in
+coding - working on a joint project for a week can be great fun!
+
 
 ## To Do
 
